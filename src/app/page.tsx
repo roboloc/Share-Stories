@@ -3,7 +3,6 @@ import Hero from "./contents/homepage/hero/page";
 import Mission from "./contents/homepage/mission-overview/page";
 import Service from "./contents/homepage/services/page";
 import Testimonials from "./contents/homepage/testimonials/page";
-// import Statements from "./contents/homepage/mission-statement/page";
 
 export default async function Home() {
   return (

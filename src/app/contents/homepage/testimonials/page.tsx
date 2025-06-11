@@ -1,4 +1,3 @@
-// import Image from "next/image";
 export default function Testimonials() {
   return (
     <main className="bg-[#E8F9FF] min-h-screen">

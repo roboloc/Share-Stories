@@ -1,8 +1,6 @@
 export default function Mission() {
   return (
-    <main
-      className="flex flex-col lg:flex-row items-center justify-center min-h-[80vh] bg-[#FBFBFB] p-4 sm:p-6 lg:p-8 gap-8 lg:gap-20" // Changed to flex-col for mobile, flex-row for large screens, adjusted gap
-    >
+    <main className="flex flex-col lg:flex-row items-center justify-center min-h-[80vh] bg-[#FBFBFB] p-4 sm:p-6 lg:p-8 gap-8 lg:gap-20">
       <div className="text-center w-full max-w-lg lg:max-w-none lg:w-auto">
         <p className="text-xl sm:text-3xl font-bold text-blue-700 mb-4 mt-8 leading-tight">
           Overview
